@@ -54,7 +54,7 @@ namespace Library.API
 
             libraryContext.EnsureSeedDataForContext();
 
-            app.UseMvc(); 
+            app.UseMvc();
         }
     }
 }
